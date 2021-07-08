@@ -10,11 +10,7 @@
   <img src="https://user-images.githubusercontent.com/86809275/124993672-afe53780-e012-11eb-95b2-7ad439b001d2.jpeg"/>
 </p>
 
-### 1.0  PROBLEM FORMULATION
-
-> At this manufacturing facility three types of products are created (P1, P2, P3), each requiring at least one or more component (C1, C2, C3) for its creation. Each product has a specified workstation associated with it, and only that workstation is responsible for that item. Before assembling the product, each workstation must wait for the required components, utilizing a buffer zone that has a maximum capacity of two for each assembly piece. Before reaching the buffer, two inspectors check the components and place them in the specified workstation only if the buffer zone is not full. Inspector 1 chooses the buffer zone with the least number of components waiting in the queue. In the event of a tie, Workstation 1, 2, then 3 is favored. Looking at this problem, a simulation appears to be the best method of determining the most ideal workflow as the different stations, priority, and components will create a significant amount of potential system states, where the ideal workflow will be difficult to determine mathematically. From the initial appearance it seems very likely that Workstation 1 will have higher rate of production than Workstation 2 or 3 as it only requires one component, disregarded each Workstation’s processing time. In event of a tie, Workstation 1 will possibly be lower in the priority list, as the increased priority will increase the production rate in addition to the already increased production from the one component requirement. 
-
-### 2.0  OBJECTIVE
+### 1.0  OBJECTIVE
 
 > The objective of simulating this problem is to identify the ideal behaviour of Inspector 1, and to determine the ideal priority of each Workstation in distributing Component 1 in a manner that benefits all product production. To determine the ideal workflow, Inspector 1’s criteria to distribute Component 1 must be changed, as well as the priority of each Workstation when a tie occurs. 
 
@@ -22,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/86809275/124993694-b4115500-e012-11eb-895d-d1d6163f51c3.jpeg/>
+  <img src="https://user-images.githubusercontent.com/86809275/124993694-b4115500-e012-11eb-895d-d1d6163f51c3.jpeg/">
 </p>
 
 #### 1. Entities
