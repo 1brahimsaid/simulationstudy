@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/86809275/124993694-b4115500-e012-11eb-895d-d1d6163f51c3.jpeg/">
+  <img src="https://user-images.githubusercontent.com/86809275/124993694-b4115500-e012-11eb-895d-d1d6163f51c3.jpeg/"/>
 </p>
 
 #### 1. Entities
